@@ -897,7 +897,7 @@ END PORTFOLIO
 }
 #posts section,
 #blog section {
-    width: 65%;
+    width: 100%;
     float: right;
     height: 100%;
     position: relative;
