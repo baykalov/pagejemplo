@@ -1302,7 +1302,7 @@ END POSTS
     height: 100%;
 }
 .postcontentarea {
-
+    width:100%;
 }
 #aboutus .next,
 #contactus .next {
@@ -2947,7 +2947,7 @@ screen and (max-device-width: 500px) and (min-device-width: 200px) {
         font-size: 16px;
     }
     .postcontentarea {
-        margin: 0 20px;
+        margin: 0px;
     }
     .contentRight h2 {
         font-size: 29px;
